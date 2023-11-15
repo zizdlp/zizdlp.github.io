@@ -13,7 +13,9 @@
 </p>
 
 <a href="itms-services://?action=download-manifest&url=./ExportOptions.plist">安装移动办公iOS版</a>
-
+<a href="itms-services://?action=download-manifest&url=./linchat.ipa">安装移动办公iOS版</a>
+<a href="itms-services://?action=download-manifest&url=./DistributionSummary.plist">plist1</a>
+<a href="itms-services://?action=download-manifest&url=./ExportOptions.plist">plist2</a>
 </body></html>
 
 
