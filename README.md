@@ -1,21 +1,19 @@
-# zizdlp.github.io
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>
+<html>
 
-<p class="title top-space" style="font-size: 60; text-align: center; top:200 ;"> 欢迎测试 </p>
+<head>
 
-<p class="title top-space" style="font-size: 60; text-align: center; top:200 ;"> </p>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-<p class="download_content top-space" style-"text-align:="" center;"="">
+<title>Setup My App</title>
 
-<a class="download_btn" style="font-size: 50; text-align: center; color: blue; text-decoration:none;" href="itms-services://?action=download-manifest&amp;url=https://mysite.com/x.yhoc/manifest.plist"> 下载安装 </a>
+</head>
 
-</p>
+<body>
 
-<a href="itms-services://?action=download-manifest&url=./ExportOptions.plist">安装移动办公iOS版</a>
-<a href="itms-services://?action=download-manifest&url=./linchat.ipa">安装移动办公iOS版</a>
-<a href="itms-services://?action=download-manifest&url=./DistributionSummary.plist">plist1</a>
-<a href="./app/manifest.plist">plist2</a>
-</body></html>
+<a style="font-size:100px"href="itms-services://?action=download-manifest&url=https://zizdlp.github.io/app/manifest.plist"> Tap Here to Install the Application</a>
 
+</body>
 
+</html>
