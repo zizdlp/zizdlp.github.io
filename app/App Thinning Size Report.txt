@@ -1,0 +1,43 @@
+
+App Thinning Size Report for All Variants of linchat
+
+Variant: linchat-199094D4-71B5-4B08-804A-618D9AFD4268.ipa
+Supported variant descriptors: [device: iPhone14,6, os-version: 17.0] and [device: iPhone12,8, os-version: 17.0]
+App + On Demand Resources size: 1.5 MB compressed, 4.3 MB uncompressed
+App size: 1.5 MB compressed, 4.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: linchat-2C409EB2-9EBD-41BE-9EFC-F430B68DA19A.ipa
+Supported variant descriptors: [device: iPad11,2, os-version: 17.0], [device: iPad8,10, os-version: 17.0], [device: iPad13,8, os-version: 17.0], [device: iPad14,6-B, os-version: 17.0], [device: iPad13,17, os-version: 17.0], [device: iPad7,1, os-version: 17.0], [device: iPad11,1, os-version: 17.0], [device: iPad13,2, os-version: 17.0], [device: iPad8,2, os-version: 17.0], [device: iPad8,7, os-version: 17.0], [device: iPad13,7, os-version: 17.0], [device: iPad8,11, os-version: 17.0], [device: iPad8,6, os-version: 17.0], [device: iPad8,1, os-version: 17.0], [device: iPad11,4, os-version: 17.0], [device: iPad13,6, os-version: 17.0], [device: iPad13,16, os-version: 17.0], [device: iPad13,1, os-version: 17.0], [device: iPad8,3, os-version: 17.0], [device: iPad14,4-A, os-version: 17.0], [device: iPad8,9, os-version: 17.0], [device: iPad7,3, os-version: 17.0], [device: iPad8,5, os-version: 17.0], [device: iPad8,12, os-version: 17.0], [device: iPad14,3-A, os-version: 17.0], [device: iPad14,4-B, os-version: 17.0], [device: iPad11,3, os-version: 17.0], [device: iPad14,3-B, os-version: 17.0], [device: iPad13,9, os-version: 17.0], [device: iPad14,5-B, os-version: 17.0], [device: iPad8,8, os-version: 17.0], [device: iPad14,1, os-version: 17.0], [device: iPad13,10, os-version: 17.0], [device: iPad14,5-A, os-version: 17.0], [device: MacFamily20,1, os-version: 17.0], [device: RealityFamily22,1, os-version: 17.0], [device: iPad13,4, os-version: 17.0], [device: iPad13,11, os-version: 17.0], [device: iPad14,6-A, os-version: 17.0], [device: iPad13,5, os-version: 17.0], [device: iPad14,2, os-version: 17.0], [device: iPad7,4, os-version: 17.0], [device: iPad7,2, os-version: 17.0], and [device: iPad8,4, os-version: 17.0]
+App + On Demand Resources size: 1.5 MB compressed, 4.3 MB uncompressed
+App size: 1.5 MB compressed, 4.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: linchat-985186A4-B207-47F0-AB85-4E33EFA804C1.ipa
+Supported variant descriptors: [device: iPhone14,8, os-version: 17.0], [device: iPhone14,7, os-version: 17.0], [device: iPhone15,4, os-version: 17.0], [device: iPhone16,1, os-version: 17.0], [device: iPhone11,2, os-version: 17.0], [device: iPhone12,3, os-version: 17.0], [device: iPhone15,2, os-version: 17.0], [device: iPhone12,5, os-version: 17.0], [device: iPhone13,4, os-version: 17.0], [device: iPhone15,3, os-version: 17.0], [device: iPhone14,2, os-version: 17.0], [device: iPhone13,1, os-version: 17.0], [device: iPhone13,3, os-version: 17.0], [device: iPhone13,2, os-version: 17.0], [device: iPhone14,4, os-version: 17.0], [device: iPhone14,5, os-version: 17.0], [device: iPhone11,4, os-version: 17.0], [device: iPhone11,6, os-version: 17.0], [device: iPhone16,2, os-version: 17.0], [device: iPhone15,5, os-version: 17.0], and [device: iPhone14,3, os-version: 17.0]
+App + On Demand Resources size: 1.5 MB compressed, 4.3 MB uncompressed
+App size: 1.5 MB compressed, 4.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: linchat-D31AFAE8-22F9-4191-9249-C6B0949F6983.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 17.0] and [device: iPhone12,1, os-version: 17.0]
+App + On Demand Resources size: 1.5 MB compressed, 4.3 MB uncompressed
+App size: 1.5 MB compressed, 4.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: linchat-F9F17F9B-DB99-4325-8952-5079CBA66C71.ipa
+Supported variant descriptors: [device: iPad7,12, os-version: 17.0], [device: iPad12,2, os-version: 17.0], [device: iPad7,11, os-version: 17.0], [device: iPad7,6, os-version: 17.0], [device: iPad13,18, os-version: 17.0], [device: iPad11,6, os-version: 17.0], [device: iPad7,5, os-version: 17.0], [device: iPad11,7, os-version: 17.0], [device: iPad12,1, os-version: 17.0], and [device: iPad13,19, os-version: 17.0]
+App + On Demand Resources size: 1.5 MB compressed, 4.3 MB uncompressed
+App size: 1.5 MB compressed, 4.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: linchat.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 1.8 MB compressed, 4.7 MB uncompressed
+App size: 1.8 MB compressed, 4.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
